@@ -1,5 +1,6 @@
 #greeting
 print("Welcome to Henry's Tip Calculator!")
+
 #collect info about the bill
 initial_bill = input("What was your total bill?\n")
 tip_amount = input("Got it. Now what percentage tip would you like to give?\n10, 12, 15, 20, or 25?\n")
